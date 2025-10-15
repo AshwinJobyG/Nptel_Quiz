@@ -548,7 +548,57 @@ const questions = [
                     options: ["potential resources", "actual resources", "reserve resources", "stock resources"],
                     correctAnswer: 3
                 }
-
+                {
+                    question: "New Delhi can best be categorised as:",
+                    options: ["administrative town", "industrial town", "transport town", "commercial town"],
+                    correctAnswer: 0
+                },
+                {
+                    question: "Which of these is a factor governing barrier effect of roads?",
+                    options: ["traffic intensity", "speed of vehicles", "driver sensitivity", "all of these"],
+                    correctAnswer: 3
+                },
+                {
+                    question: "Which of these is a factor governing barrier effect of roads?",
+                    options: ["presence and location of animal crossings", "movement pattern of species", "species specific preference of road use", "all of these"],
+                    correctAnswer: 3
+                },
+                {
+                    question: "Varanasi can best be categorised as:",
+                    options: ["mining town", "garrison town", "educational town", "religious town"],
+                    correctAnswer: 3
+                },
+                {
+                    question: "\"The ability to produce a good using fewer inputs than another producer\" is:",
+                    options: ["comparative advantage", "absolute advantage", "production advantage", "resource advantage"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "\"The price of a good that prevails in the world market for that good\" is the definition of:",
+                    options: ["export price", "import price", "world price", "domestic price"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "Visakhapatnam can best be categorised as:",
+                    options: ["administrative town", "industrial town", "transport town", "commercial town"],
+                    correctAnswer: 2
+                },
+                {
+                    question: "Which of these is / are example(s) of mitigation measures to mitigate impacts of linear infrastructure on wildlife?",
+                    options: ["land bridges", "canopy bridges", "glider poles", "all of these"],
+                    correctAnswer: 3
+                },
+                {
+                    question: "Bhilai can best be categorised as:",
+                    options: ["administrative town", "industrial town", "transport town", "commercial town"],
+                    correctAnswer: 1
+                },
+                {
+                    question: "\"The ability to produce a good at a lower opportunity cost than another producer\" is a definition of:",
+                    options: ["real advantage", "monetary advantage", "comparative advantage", "opportunity advantage"],
+                    correctAnswer: 2
+                },
+                
 ];
 
 // Quiz state
