@@ -597,7 +597,7 @@ const questions = [
                     question: "\"The ability to produce a good at a lower opportunity cost than another producer\" is a definition of:",
                     options: ["real advantage", "monetary advantage", "comparative advantage", "opportunity advantage"],
                     correctAnswer: 2
-                },
+                }
                 
 ];
 
