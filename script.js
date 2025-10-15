@@ -12,6 +12,7 @@ updateDarkModeButton();
 
 // Toggle dark mode
 darkModeToggle.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme');
     const newTheme = currentTheme === 'light' ? 'dark' : 'light';
     document.documentElement.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
