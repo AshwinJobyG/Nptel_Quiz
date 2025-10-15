@@ -547,7 +547,7 @@ const questions = [
                     question: "Low concentration ores come in the category of:",
                     options: ["potential resources", "actual resources", "reserve resources", "stock resources"],
                     correctAnswer: 3
-                }
+                },
                 {
                     question: "New Delhi can best be categorised as:",
                     options: ["administrative town", "industrial town", "transport town", "commercial town"],
@@ -704,4 +704,4 @@ restartButton.addEventListener('click', () => {
 });
 
 // Start the quiz
-initializeQuiz(); 
+initializeQuiz();
